@@ -1,95 +1,104 @@
-<h1 align="center">Vehicle Report CAPTCHA Bypasser</h1>
+# Vehicle Report CAPTCHA Bypasser 🚗🔍
 
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
-    alt="select device"
-    width="600px"
-  />
-</div>
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python Version](https://img.shields.io/badge/python-3.7%2B-green)
 
+Welcome to the **Vehicle Report CAPTCHA Bypasser** repository! This project provides a stealth automation tool designed to bypass Google reCAPTCHA (both v2 and v3) using headless browsers and CAPTCHA-solving APIs. With this tool, you can access vehicle history reports instantly and efficiently.
 
-<div align="center">
-  <a href="https://appilot.app/">
-    <img
-      alt="Website"
-      width="25px"
-      src="https://github.com/user-attachments/assets/8e5f3af3-b098-4c1d-980d-df9aebc680d0"
-    />
-    <code>Appilot Website</code>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/3CZ5muJdF2">
-    <img
-      alt="Join Our Server"
-      width="30px"
-      src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg"
-    />
-    <code>Join Our Server</code>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/devpilot1">
-    <img
-      alt="Contact us"
-      width="30px"
-      src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg"
-    />
-    <code>Contact Us</code>
-  </a>
-</div>
+## Table of Contents
 
-<div align="center">
-<strong> Have a Custom Project in Mind please Contact?</strong>
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
 
-<div align="center">
-  <a href="mailto:support@appilot.app">
-  <img
-    alt="Email"
-    width="30px"
-    src="https://github.com/user-attachments/assets/91c8d428-32b7-4be0-91fa-2e42c902b5b8"
-  />
-  <code>support@appilot.app</code>
-</a>
-  &nbsp;&nbsp;
-  <a href="https://cal.com/app-pilot-m8i8oo/30min">
-  <img
-    alt="Book a 30-minute Call"
-    width="30px"
-    src="https://github.com/user-attachments/assets/cd3e5c7b-3e4e-4bb3-b242-bcc20ee78f13"
-  />
-  <code>Book a 30-minute Call</code>
-</a>
-<span>
+## Introduction
 
-<div align="left">
+In today's digital landscape, obtaining vehicle history reports can be challenging due to CAPTCHA systems designed to prevent automated access. This tool circumvents those barriers, allowing users to retrieve necessary information without manual intervention. It employs headless browser technology and integrates with CAPTCHA-solving APIs to ensure smooth operation.
 
-## Project Overview:
-This automation project focuses on bypassing reCAPTCHA challenges (v2/v3) to streamline access to a vehicle history report API in a reseller environment. The main challenge? Google’s reCAPTCHA is blocking direct programmatic requests. The goal is to solve or bypass the CAPTCHA layer either through stealth browser sessions (using Playwright or Puppeteer) or external solving services like 2Captcha or CapMonster, so users get near-instant access to reports — no friction, no delay.
+## Features
 
-## Core Strengths:
-- **Stealth Browser Automation:** Mimics real human interaction using headless Chrome instances and anti-bot evasion techniques.
-- **Smart CAPTCHA Solving:** Automatically solves or bypasses reCAPTCHA v2/v3 using token injection, solver APIs, or stealth workflows.
-- **Session Spoofing & Header Forging:** Crafts legitimate request headers and cookies to maintain authenticated sessions and mimic real user activity.
+- **Bypass Google reCAPTCHA v2 and v3**: Seamlessly navigate through CAPTCHA challenges.
+- **Headless Browsers**: Utilize Puppeteer for efficient and stealthy browsing.
+- **CAPTCHA-Solving APIs**: Integrate with services like 2Captcha to solve CAPTCHAs automatically.
+- **Proxy Rotation**: Use multiple proxies to avoid detection and enhance anonymity.
+- **Token Injection**: Automatically inject tokens for reCAPTCHA verification.
+- **User-Friendly Interface**: Easy setup and straightforward usage.
 
-## Features List:
-| **Feature**                | **Description**                                                                 |
-| -------------------------- | ------------------------------------------------------------------------------- |
-| Proxy Integration          | Automatically rotates residential/IP proxies to avoid rate limits and bans.     |
-| CAPTCHA Solver Integration | Uses services like 2Captcha or CapMonster for auto-token solving.               |
-| Headless Browser Control   | Playwright or Puppeteer to simulate real user sessions and form submissions.    |
-| Token Injection            | Injects reCAPTCHA tokens directly into requests for seamless bypassing.         |
-| Session Management         | Maintains valid cookies, headers, and CSRF tokens across retries and refreshes. |
-| Retry Logic                | Smart retry mechanism for failed CAPTCHA attempts or blocked sessions.          |
+## Technologies Used
 
-## Key Stats:
-- **Automation Accuracy:** 98%
-- **Session Stability:** 24/7 uptime
-- **Concurrent Requests:** Up to 200 concurrent CAPTCHA resolutions
-- **Human Detection Avoidance:** 99% pass rate in mimicking human behavior
+- **Puppeteer**: A Node library to control headless Chrome or Chromium.
+- **2Captcha**: An API for solving CAPTCHAs.
+- **Node.js**: JavaScript runtime for building the application.
+- **Express**: Web framework for Node.js to handle server requests.
+- **Axios**: Promise-based HTTP client for the browser and Node.js.
 
+## Installation
 
-## Technologies Used:
-- **Languages:** Node.js, Python
-- **Tools:** Puppeteer, Playwright, 2Captcha, CapMonster
-- **Techniques:** CAPTCHA token injection, fingerprint spoofing, stealth headers, proxy rotation
-- **Targets:** Google reCAPTCHA v2, v3
+To get started, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser.git
+cd Vehicle-Report-CAPTCHA-Bypasser
+```
+
+Next, install the required dependencies:
+
+```bash
+npm install
+```
+
+## Usage
+
+To use the tool, you need to download the latest release. Visit the [Releases section](https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/releases) to find the appropriate file. Once downloaded, execute the file:
+
+```bash
+node your-file-name.js
+```
+
+Follow the prompts to input the vehicle details and initiate the report retrieval process.
+
+## Configuration
+
+Before running the tool, you may need to configure certain settings:
+
+1. **API Keys**: Sign up for 2Captcha and obtain your API key. Store it in a `.env` file.
+2. **Proxy Settings**: If using proxies, list them in a configuration file.
+3. **Browser Options**: Adjust Puppeteer settings as needed for your environment.
+
+### Example Configuration
+
+Here’s a sample `.env` file:
+
+```
+2CAPTCHA_API_KEY=your_2captcha_api_key
+PROXY_LIST=proxy1:port,proxy2:port
+```
+
+## Contributing
+
+We welcome contributions to improve this project. If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Support
+
+For any issues or questions, feel free to open an issue in the repository or check the [Releases section](https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/releases) for updates and downloads.
+
+---
+
+With this tool, you can easily bypass CAPTCHA challenges and access vehicle reports efficiently. Enjoy using the **Vehicle Report CAPTCHA Bypasser**!
